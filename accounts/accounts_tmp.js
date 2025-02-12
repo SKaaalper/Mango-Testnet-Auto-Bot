@@ -11,5 +11,5 @@
  */
 
 export const accountList = [
-    "Your_Private_Keys"
+    "Your_Seed_Phrase"
 ];
