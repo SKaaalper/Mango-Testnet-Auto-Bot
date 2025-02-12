@@ -36,7 +36,7 @@
 
 1. Clone project repository
    ```
-   git clone https://github.com/airdropinsiders/Mango-Testnet-Auto-Bot.git && cd Mango-Testnet-Auto-Bot
+   git clone https://github.com/SKaaalper/Mango-Testnet-Auto-Bot.git && cd Mango-Testnet-Auto-Bot
    ```
 2. Install Dependencies and Setup Accounts
    ```
@@ -46,7 +46,7 @@
    ```
    nano accounts/accounts.js
    ```
-4. Configure the bot config
+4. Configure the bot config (optional)
     ```
    nano config/proxy_list.js
     ```
@@ -60,7 +60,7 @@
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repository
    ```
-   git clone https://github.com/airdropinsiders/Mango-Testnet-Auto-Bot.git
+   git clone https://github.com/SKaaalper/Mango-Testnet-Auto-Bot.git
    ```
    and cd to project dir
    ```
